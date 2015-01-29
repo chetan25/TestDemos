@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+E:\C#project\Client\obj\Release\ConsoleApplication1.exe
+E:\C#project\Client\obj\Release\ConsoleApplication1.pdb
+E:\C#project\Client\bin\Release\ConsoleApplication1.exe
+E:\C#project\Client\bin\Release\ConsoleApplication1.pdb
+E:\C#project\Client\obj\Release\Client_Socket.csprojResolveAssemblyReference.cache

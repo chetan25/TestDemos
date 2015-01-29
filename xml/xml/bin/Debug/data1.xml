@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<patients>
+<patient id="111,1,true,12/01/1988">
+
+<first>James</first>
+<last>Bond</last>
+<contacts>1,(123)123-1234|3,(987)654-6543|4,abc@abc.com</contacts> 
+
+
+</patient>
+</patients>

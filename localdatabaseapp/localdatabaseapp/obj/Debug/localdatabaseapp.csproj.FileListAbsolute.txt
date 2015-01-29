@@ -1,0 +1,15 @@
+E:\C#project\localdatabaseapp\localdatabaseapp\bin\Debug\localdatabaseapp.exe.config
+E:\C#project\localdatabaseapp\localdatabaseapp\bin\Debug\Database1.sdf
+E:\C#project\localdatabaseapp\localdatabaseapp\bin\Debug\Database2.sdf
+E:\C#project\localdatabaseapp\localdatabaseapp\bin\Debug\Database3.sdf
+E:\C#project\localdatabaseapp\localdatabaseapp\bin\Debug\Database4.sdf
+E:\C#project\localdatabaseapp\localdatabaseapp\bin\Debug\emplocal.sdf
+E:\C#project\localdatabaseapp\localdatabaseapp\bin\Debug\localemp.sdf
+E:\C#project\localdatabaseapp\localdatabaseapp\bin\Debug\localdatabaseapp.exe
+E:\C#project\localdatabaseapp\localdatabaseapp\bin\Debug\localdatabaseapp.pdb
+E:\C#project\localdatabaseapp\localdatabaseapp\obj\Debug\localdatabaseapp.csprojResolveAssemblyReference.cache
+E:\C#project\localdatabaseapp\localdatabaseapp\obj\Debug\localdatabaseapp.Form1.resources
+E:\C#project\localdatabaseapp\localdatabaseapp\obj\Debug\localdatabaseapp.Properties.Resources.resources
+E:\C#project\localdatabaseapp\localdatabaseapp\obj\Debug\localdatabaseapp.csproj.GenerateResource.Cache
+E:\C#project\localdatabaseapp\localdatabaseapp\obj\Debug\localdatabaseapp.exe
+E:\C#project\localdatabaseapp\localdatabaseapp\obj\Debug\localdatabaseapp.pdb
